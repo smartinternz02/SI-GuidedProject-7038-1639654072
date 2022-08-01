@@ -143,3 +143,4 @@ Just because you have still got a list of things to do does not mean it is not d
 
 
  
+Note: create .h5 files in flask application and outside flask application with no folder name
